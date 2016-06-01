@@ -1,0 +1,22 @@
+{
+  "name": "TheOnlyRiddle",
+  "homepage": "https://github.com/theonlyriddle/theonlyriddle.github.io",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sebastian Riddle"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.6.3",
+    "bootstrap": "^3.3.6"
+  }
+}
